@@ -5,10 +5,10 @@ public class ContaTerminal {
         
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Digite o seu Nome Completo. ");
+        System.out.println("Digite o seu Nome Completo.: ");
         String NomeCompleto = scanner.nextLine();
 
-        System.out.println("Digite a sua Agencia. ");
+        System.out.println("Digite a sua Agencia.: ");
         String agencia = scanner.nextLine();
 
         System.out.println("Digite o numero da conta.: ");
